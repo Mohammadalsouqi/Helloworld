@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+}
+
+[dir="rtl"] body {
+  font-family: 'Noto Sans Arabic', sans-serif;
+}
+
+[dir="ltr"] body {
+  font-family: 'Inter', sans-serif;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+:focus-visible {
+  outline: 2px solid #C4622D;
+  outline-offset: 2px;
+}

@@ -1,0 +1,342 @@
+[
+  {
+    "id": "d-1",
+    "from": "Queen Alia Airport",
+    "fromAr": "مطار الملكة علياء",
+    "to": "Amman",
+    "toAr": "عمان",
+    "distanceKm": 30,
+    "category": "short",
+    "priceOverride": 25
+  },
+  {
+    "id": "d-2",
+    "from": "Amman",
+    "fromAr": "عمان",
+    "to": "Queen Alia Airport",
+    "toAr": "مطار الملكة علياء",
+    "distanceKm": 30,
+    "category": "short",
+    "priceOverride": 25
+  },
+  {
+    "id": "d-3",
+    "from": "Queen Alia Airport",
+    "fromAr": "مطار الملكة علياء",
+    "to": "Dead Sea",
+    "toAr": "البحر الميت",
+    "distanceKm": 55,
+    "category": "medium",
+    "priceOverride": 40
+  },
+  {
+    "id": "d-4",
+    "from": "Dead Sea",
+    "fromAr": "البحر الميت",
+    "to": "Queen Alia Airport",
+    "toAr": "مطار الملكة علياء",
+    "distanceKm": 55,
+    "category": "medium",
+    "priceOverride": 40
+  },
+  {
+    "id": "d-5",
+    "from": "Queen Alia Airport",
+    "fromAr": "مطار الملكة علياء",
+    "to": "Madaba",
+    "toAr": "مادبا",
+    "distanceKm": 35,
+    "category": "short",
+    "priceOverride": 30
+  },
+  {
+    "id": "d-6",
+    "from": "Madaba",
+    "fromAr": "مادبا",
+    "to": "Queen Alia Airport",
+    "toAr": "مطار الملكة علياء",
+    "distanceKm": 35,
+    "category": "short",
+    "priceOverride": 30
+  },
+  {
+    "id": "d-7",
+    "from": "Queen Alia Airport",
+    "fromAr": "مطار الملكة علياء",
+    "to": "Jerash",
+    "toAr": "جرش",
+    "distanceKm": 75,
+    "category": "medium",
+    "priceOverride": 45
+  },
+  {
+    "id": "d-8",
+    "from": "Jerash",
+    "fromAr": "جرش",
+    "to": "Queen Alia Airport",
+    "toAr": "مطار الملكة علياء",
+    "distanceKm": 75,
+    "category": "medium",
+    "priceOverride": 45
+  },
+  {
+    "id": "d-9",
+    "from": "Queen Alia Airport",
+    "fromAr": "مطار الملكة علياء",
+    "to": "King Hussein Bridge",
+    "toAr": "جسر الملك حسين",
+    "distanceKm": 60,
+    "category": "medium",
+    "priceOverride": 50
+  },
+  {
+    "id": "d-10",
+    "from": "King Hussein Bridge",
+    "fromAr": "جسر الملك حسين",
+    "to": "Queen Alia Airport",
+    "toAr": "مطار الملكة علياء",
+    "distanceKm": 60,
+    "category": "medium",
+    "priceOverride": 50
+  },
+  {
+    "id": "d-11",
+    "from": "Queen Alia Airport",
+    "fromAr": "مطار الملكة علياء",
+    "to": "Petra",
+    "toAr": "البتراء",
+    "distanceKm": 215,
+    "category": "long",
+    "priceOverride": 90
+  },
+  {
+    "id": "d-12",
+    "from": "Petra",
+    "fromAr": "البتراء",
+    "to": "Queen Alia Airport",
+    "toAr": "مطار الملكة علياء",
+    "distanceKm": 215,
+    "category": "long",
+    "priceOverride": 90
+  },
+  {
+    "id": "d-13",
+    "from": "Queen Alia Airport",
+    "fromAr": "مطار الملكة علياء",
+    "to": "Aqaba",
+    "toAr": "العقبة",
+    "distanceKm": 320,
+    "category": "long",
+    "priceOverride": 120
+  },
+  {
+    "id": "d-14",
+    "from": "Aqaba",
+    "fromAr": "العقبة",
+    "to": "Queen Alia Airport",
+    "toAr": "مطار الملكة علياء",
+    "distanceKm": 320,
+    "category": "long",
+    "priceOverride": 120
+  },
+  {
+    "id": "d-15",
+    "from": "Queen Alia Airport",
+    "fromAr": "مطار الملكة علياء",
+    "to": "Wadi Araba Border",
+    "toAr": "معبر وادي عربة",
+    "distanceKm": 75,
+    "category": "medium",
+    "priceOverride": 55
+  },
+  {
+    "id": "d-16",
+    "from": "Wadi Araba Border",
+    "fromAr": "معبر وادي عربة",
+    "to": "Queen Alia Airport",
+    "toAr": "مطار الملكة علياء",
+    "distanceKm": 75,
+    "category": "medium",
+    "priceOverride": 55
+  },
+  {
+    "id": "d-17",
+    "from": "Amman",
+    "fromAr": "عمان",
+    "to": "Petra",
+    "toAr": "البتراء",
+    "distanceKm": 215,
+    "category": "long",
+    "priceOverride": 85
+  },
+  {
+    "id": "d-18",
+    "from": "Petra",
+    "fromAr": "البتراء",
+    "to": "Amman",
+    "toAr": "عمان",
+    "distanceKm": 215,
+    "category": "long",
+    "priceOverride": 85
+  },
+  {
+    "id": "d-19",
+    "from": "Amman",
+    "fromAr": "عمان",
+    "to": "Aqaba",
+    "toAr": "العقبة",
+    "distanceKm": 320,
+    "category": "long",
+    "priceOverride": 110
+  },
+  {
+    "id": "d-20",
+    "from": "Aqaba",
+    "fromAr": "العقبة",
+    "to": "Amman",
+    "toAr": "عمان",
+    "distanceKm": 320,
+    "category": "long",
+    "priceOverride": 110
+  },
+  {
+    "id": "d-21",
+    "from": "Amman",
+    "fromAr": "عمان",
+    "to": "Dead Sea",
+    "toAr": "البحر الميت",
+    "distanceKm": 55,
+    "category": "medium",
+    "priceOverride": 35
+  },
+  {
+    "id": "d-22",
+    "from": "Dead Sea",
+    "fromAr": "البحر الميت",
+    "to": "Amman",
+    "toAr": "عمان",
+    "distanceKm": 55,
+    "category": "medium",
+    "priceOverride": 35
+  },
+  {
+    "id": "d-23",
+    "from": "Amman",
+    "fromAr": "عمان",
+    "to": "Jerash",
+    "toAr": "جرش",
+    "distanceKm": 48,
+    "category": "short",
+    "priceOverride": 30
+  },
+  {
+    "id": "d-24",
+    "from": "Jerash",
+    "fromAr": "جرش",
+    "to": "Amman",
+    "toAr": "عمان",
+    "distanceKm": 48,
+    "category": "short",
+    "priceOverride": 30
+  },
+  {
+    "id": "d-25",
+    "from": "Amman",
+    "fromAr": "عمان",
+    "to": "King Hussein Bridge",
+    "toAr": "جسر الملك حسين",
+    "distanceKm": 60,
+    "category": "medium",
+    "priceOverride": 45
+  },
+  {
+    "id": "d-26",
+    "from": "King Hussein Bridge",
+    "fromAr": "جسر الملك حسين",
+    "to": "Amman",
+    "toAr": "عمان",
+    "distanceKm": 60,
+    "category": "medium",
+    "priceOverride": 45
+  },
+  {
+    "id": "d-27",
+    "from": "Amman",
+    "fromAr": "عمان",
+    "to": "Wadi Araba Border",
+    "toAr": "معبر وادي عربة",
+    "distanceKm": 75,
+    "category": "medium",
+    "priceOverride": 50
+  },
+  {
+    "id": "d-28",
+    "from": "Wadi Araba Border",
+    "fromAr": "معبر وادي عربة",
+    "to": "Amman",
+    "toAr": "عمان",
+    "distanceKm": 75,
+    "category": "medium",
+    "priceOverride": 50
+  },
+  {
+    "id": "d-29",
+    "from": "Aqaba Airport",
+    "fromAr": "مطار العقبة",
+    "to": "Aqaba City",
+    "toAr": "مدينة العقبة",
+    "distanceKm": 15,
+    "category": "short",
+    "priceOverride": 15
+  },
+  {
+    "id": "d-30",
+    "from": "Aqaba City",
+    "fromAr": "مدينة العقبة",
+    "to": "Aqaba Airport",
+    "toAr": "مطار العقبة",
+    "distanceKm": 15,
+    "category": "short",
+    "priceOverride": 15
+  },
+  {
+    "id": "d-31",
+    "from": "Aqaba",
+    "fromAr": "العقبة",
+    "to": "Petra",
+    "toAr": "البتراء",
+    "distanceKm": 130,
+    "category": "medium",
+    "priceOverride": 75
+  },
+  {
+    "id": "d-32",
+    "from": "Petra",
+    "fromAr": "البتراء",
+    "to": "Aqaba",
+    "toAr": "العقبة",
+    "distanceKm": 130,
+    "category": "medium",
+    "priceOverride": 75
+  },
+  {
+    "id": "d-33",
+    "from": "Aqaba",
+    "fromAr": "العقبة",
+    "to": "Wadi Rum",
+    "toAr": "وادي رم",
+    "distanceKm": 70,
+    "category": "medium",
+    "priceOverride": 50
+  },
+  {
+    "id": "d-34",
+    "from": "Wadi Rum",
+    "fromAr": "وادي رم",
+    "to": "Aqaba",
+    "toAr": "العقبة",
+    "distanceKm": 70,
+    "category": "medium",
+    "priceOverride": 50
+  }
+]

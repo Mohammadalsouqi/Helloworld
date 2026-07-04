@@ -1,0 +1,112 @@
+{
+  "nav": {
+    "home": "Home",
+    "cars": "Our Fleet",
+    "booking": "Book Now",
+    "admin": "Admin",
+    "language": "العربية"
+  },
+  "hero": {
+    "tag": "Fixed-Price Airport Transfers",
+    "title": "Jordan Airport Transfer",
+    "subtitle": "Book fixed-price transfers from Queen Alia Airport, Aqaba Airport and all border crossings. No surprises, just comfortable rides."
+  },
+  "booking": {
+    "pickup": "Pickup Location",
+    "dropoff": "Drop-off Location",
+    "swap": "Swap",
+    "date": "Travel Date",
+    "passengers": "Passengers",
+    "showCars": "Show Available Cars"
+  },
+  "trust": {
+    "fixedPrice": "Fixed Price",
+    "fixedPriceDesc": "No hidden fees or surprises",
+    "available247": "24/7 Available",
+    "available247Desc": "We never sleep so you travel stress-free",
+    "licensed": "Licensed Drivers",
+    "licensedDesc": "All drivers are certified professionals",
+    "cancellation": "Free Cancellation",
+    "cancellationDesc": "Cancel up to 24 hours before pickup"
+  },
+  "cars": {
+    "title": "Available Cars",
+    "pax": "passengers",
+    "bags": "bags",
+    "ac": "A/C",
+    "auto": "Automatic",
+    "manual": "Manual",
+    "year": "Year",
+    "moreDetails": "More Details",
+    "lessDetails": "Less Details",
+    "bookNow": "Book This Car",
+    "perTrip": "per trip",
+    "features": "Features",
+    "amenities": "Included Amenities",
+    "cancellationPolicy": "Cancellation Policy",
+    "noCarsFound": "No cars available for this route.",
+    "selectRoute": "Please select a route to see available cars."
+  },
+  "how": {
+    "title": "How It Works",
+    "subtitle": "Book your Jordan transfer in 3 simple steps",
+    "step1title": "Choose Your Route",
+    "step1desc": "Select your pickup and drop-off locations from our list of popular Jordan destinations.",
+    "step2title": "Pick Your Car",
+    "step2desc": "Browse our fleet and choose the car that fits your group size and budget.",
+    "step3title": "Confirm via WhatsApp",
+    "step3desc": "Complete your booking details and confirm instantly via WhatsApp with our team."
+  },
+  "footer": {
+    "rights": "All rights reserved.",
+    "contact": "Contact Us",
+    "whatsapp": "WhatsApp"
+  },
+  "admin": {
+    "dashboard": "Dashboard",
+    "cars": "Cars",
+    "destinations": "Destinations",
+    "bookings": "Bookings",
+    "settings": "Settings",
+    "totalBookings": "Total Bookings",
+    "totalRevenue": "Total Revenue",
+    "platformEarnings": "Platform Earnings",
+    "recentBookings": "Recent Bookings",
+    "addCar": "Add Car",
+    "editCar": "Edit Car",
+    "deleteCar": "Delete Car",
+    "addDestination": "Add Destination",
+    "save": "Save",
+    "cancel": "Cancel",
+    "logout": "Logout",
+    "login": "Login",
+    "password": "Password",
+    "loginTitle": "Admin Login",
+    "status": {
+      "pending": "Pending",
+      "confirmed": "Confirmed",
+      "completed": "Completed",
+      "cancelled": "Cancelled"
+    }
+  },
+  "currencies": {
+    "JOD": "JOD",
+    "USD": "USD",
+    "EUR": "EUR",
+    "SAR": "SAR"
+  },
+  "locations": {
+    "queenAliaAirport": "Queen Alia Airport",
+    "amman": "Amman",
+    "deadSea": "Dead Sea",
+    "madaba": "Madaba",
+    "jerash": "Jerash",
+    "kingHusseinBridge": "King Hussein Bridge",
+    "petra": "Petra",
+    "aqaba": "Aqaba",
+    "wadiArabaBorder": "Wadi Araba Border",
+    "aqabaAirport": "Aqaba Airport",
+    "aqabaCity": "Aqaba City",
+    "wadiRum": "Wadi Rum"
+  }
+}
